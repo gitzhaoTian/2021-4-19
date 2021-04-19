@@ -1,0 +1,9 @@
+include ':umengshare'
+include ':huanxin_ceshi'
+include ':loginceshi'
+include ':loginlianxi'
+include ':baidu'
+include ':myMvplibrary'
+include ':day10lianxi'
+include ':app'
+rootProject.name = "mvp"
